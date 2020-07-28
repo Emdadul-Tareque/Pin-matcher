@@ -105,7 +105,11 @@ color: #E0B612;
     margin-top: 10px;
 }
 
-.notify-section{
+#done-notify{
+    display: none;
+}
+
+#alert-notify{
     display: none;
 }
 
